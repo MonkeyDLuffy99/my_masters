@@ -1,0 +1,1 @@
+{"name": "PretrainedHFTransformer", "args": {"dtype": "np.float32", "precompute_cache": null, "preload": false, "device": "cpu", "n_jobs": 0, "kind": "ChemGPT-1.2B", "notation": "selfies", "pooling": "mean", "concat_layers": -1, "max_length": 128, "ignore_padding": true, "random_seed": null}, "_molfeat_version": "0.8.6"}
